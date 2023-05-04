@@ -1,0 +1,12 @@
+com.example.bmi.app-jetified-window-java-1.0.0-beta04-0 C:\Users\Abolaji Ayeni\.gradle\caches\transforms-3\006d93cd422dbc43e89591147c2de572\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.bmi.app-core-1.6.0-1 C:\Users\Abolaji Ayeni\.gradle\caches\transforms-3\4ca28c4a71705f8a687c69dda140a277\transformed\core-1.6.0\res
+com.example.bmi.app-jetified-annotation-experimental-1.1.0-2 C:\Users\Abolaji Ayeni\.gradle\caches\transforms-3\8965c941cf4bee4d72541b965c7c9d39\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.bmi.app-jetified-window-1.0.0-beta04-3 C:\Users\Abolaji Ayeni\.gradle\caches\transforms-3\dee59bb480020f42d53c2ea15e4501f7\transformed\jetified-window-1.0.0-beta04\res
+com.example.bmi.app-main-4 C:\Users\Abolaji Ayeni\AndroidStudioProjects\bmi\android\app\src\main\res
+com.example.bmi.app-release-5 C:\Users\Abolaji Ayeni\AndroidStudioProjects\bmi\android\app\src\release\res
+com.example.bmi.app-pngs-6 C:\Users\Abolaji Ayeni\AndroidStudioProjects\bmi\build\app\generated\res\pngs\release
+com.example.bmi.app-resValues-7 C:\Users\Abolaji Ayeni\AndroidStudioProjects\bmi\build\app\generated\res\resValues\release
+com.example.bmi.app-rs-8 C:\Users\Abolaji Ayeni\AndroidStudioProjects\bmi\build\app\generated\res\rs\release
+com.example.bmi.app-mergeReleaseResources-9 C:\Users\Abolaji Ayeni\AndroidStudioProjects\bmi\build\app\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.example.bmi.app-mergeReleaseResources-10 C:\Users\Abolaji Ayeni\AndroidStudioProjects\bmi\build\app\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.example.bmi.app-merged_res-11 C:\Users\Abolaji Ayeni\AndroidStudioProjects\bmi\build\app\intermediates\merged_res\release
