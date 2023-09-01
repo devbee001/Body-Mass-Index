@@ -1,6 +1,6 @@
 # BMI
 
-# My First Flutter App.
+# A weight checker app built with flutter.
 
 ## Getting Started
 
